@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @philipsun
+- 👋 Hi, I’m Xiaoping Sun.
 - 👀 I’m interested in natural language processing, system modelling, machine learning
 - 🌱 I’m currently working on text summarization, virus expanding simulation, complex system modelling
 - 💞️ I’m also insterested in visualization, information processing, machine learning and AI.
